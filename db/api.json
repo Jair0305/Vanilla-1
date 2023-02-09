@@ -1,0 +1,62 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/3000/600"
+    },
+    {
+        "precio": 500,
+        "id": 2,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/300/600"
+    },
+    {
+        "precio": 500,
+        "id": 3,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+        "precio": 500,
+        "id": 4,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/3/600"
+    },
+    {
+        "precio": 500,
+        "id": 5,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/2000/600"
+    },
+    {
+        "precio": 500,
+        "id": 6,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/200/600"
+    },
+    {
+        "precio": 500,
+        "id": 7,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+        "precio": 500,
+        "id": 8,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/1000/600"
+    },
+    {
+        "precio": 500,
+        "id": 9,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/100/600"
+    },
+    {
+        "precio": 500,
+        "id": 10,
+        "title": "Cafe",
+        "imageUrl": "https://picsum.photos/id/10/600"
+    },
+]
