@@ -2,61 +2,52 @@
     {
         "precio": 500,
         "id": 1,
-        "title": "Cafe",
-        "imageUrl": "https://picsum.photos/id/3000/600"
-    },
-    {
-        "precio": 500,
+        "title": "Café",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    },{
+        "precio": 250,
         "id": 2,
-        "title": "Cafe",
-        "imageUrl": "https://picsum.photos/id/300/600"
-    },
-    {
-        "precio": 500,
+        "title": "Botella",
+        "imageUrl": "https://picsum.photos/id/1/600"
+    },{
+        "precio": 50,
         "id": 3,
-        "title": "Cafe",
-        "imageUrl": "https://picsum.photos/id/30/600"
-    },
-    {
-        "precio": 500,
+        "title": "Mono",
+        "imageUrl": "https://picsum.photos/id/2/600"
+    },{
+        "precio": 250,
         "id": 4,
-        "title": "Cafe",
+        "title": "Bolsa",
         "imageUrl": "https://picsum.photos/id/3/600"
-    },
-    {
-        "precio": 500,
+    },{
+        "precio": 10,
         "id": 5,
-        "title": "Cafe",
-        "imageUrl": "https://picsum.photos/id/2000/600"
-    },
-    {
-        "precio": 500,
+        "title": "Salsa",
+        "imageUrl": "https://picsum.photos/id/4/600"
+    },{
+        "precio": 36,
         "id": 6,
-        "title": "Cafe",
-        "imageUrl": "https://picsum.photos/id/200/600"
-    },
-    {
-        "precio": 500,
+        "title": "Asador",
+        "imageUrl": "https://picsum.photos/id/5/600"
+    },{
+        "precio": 5,
         "id": 7,
-        "title": "Cafe",
-        "imageUrl": "https://picsum.photos/id/20/600"
-    },
-    {
-        "precio": 500,
+        "title": "pinza",
+        "imageUrl": "https://picsum.photos/id/6/600"
+    },{
+        "precio": 1000,
         "id": 8,
-        "title": "Cafe",
-        "imageUrl": "https://picsum.photos/id/1000/600"
-    },
-    {
-        "precio": 500,
+        "title": "Tampete",
+        "imageUrl": "https://picsum.photos/id/7/600"
+    },{
+        "precio": 5000,
         "id": 9,
-        "title": "Cafe",
-        "imageUrl": "https://picsum.photos/id/100/600"
-    },
-    {
-        "precio": 500,
+        "title": "Plancha",
+        "imageUrl": "https://picsum.photos/id/8/600"
+    },{
+        "precio": 40,
         "id": 10,
-        "title": "Cafe",
-        "imageUrl": "https://picsum.photos/id/10/600"
-    },
+        "title": "Poster",
+        "imageUrl": "https://picsum.photos/id/9/600"
+    }
 ]
