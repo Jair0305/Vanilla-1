@@ -14,4 +14,7 @@
 {
     width: 40%;
     height: 100%;
+    margin-left: 50px;
+    overflow-y: scroll;
+    max-height: 100vh;
 }
